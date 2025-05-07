@@ -1,2 +1,5 @@
 # Ignore build directory
 build/
+revise.md
+index.html
+HelloWorldSwing.java
